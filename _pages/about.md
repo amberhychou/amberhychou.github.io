@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>PhD student @ UW ECE</b>
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Hi! I'm Amber Chou. I am a 4th year Ph.D. student in Electrical and Computer Engineering (ECE) at the University of Washington, Seattle (UW) focusing on <b>human-machine interaction</b>. I am advised by <a href="https://faculty.washington.edu/sburden/bio/">Dr. Sam Burden</a> in UW ECE. My research interest lies in the intersection of bioengineering and electrical & computer engineering: I am broadly interested in investigating human sensorimotor control and applying the knowledge to improve current technologies in robotics and human-machine systems. My research leverages data‐driven algorithms and theoretical principles drawn from control theory and game theory to enhance the usability of multimodal interfaces. I am particularly focused on non‐invasive physiological sensing such as electromyography (EMG) and eye tracking for neurorehabilitation.
+<p>Hi! I'm Amber Chou. I'm a 4th year Ph.D. student in Electrical and Computer Engineering (ECE) at the University of Washington, Seattle (UW), with a focus on <b>human-machine interaction</b>. I am advised by <a href="https://faculty.washington.edu/sburden/bio/">Dr. Sam Burden</a> with the UW ECE department. My research interest lies in the intersection of bioengineering and electrical & computer engineering: I am broadly interested in investigating human sensorimotor control and applying the knowledge to improve current technologies in robotics and human-machine systems. My research leverages data‐driven algorithms and theoretical principles drawn from control theory and game theory to enhance the usability of multimodal interfaces. I am particularly focused on non‐invasive physiological sensing such as electromyography (EMG) and eye tracking for applications in rehabilitation.
 
 <!-- my Ph.D. research leverages theoretical techniques from control theory and game theory and data-driven algorithms to synthesize interfaces that have multiple modalities and can adapt to users. This synthesis of knowledge and expertise is aimed at advancing the usability of multimodal interfaces, particularly through non‐invasive physiological sensing for neurorehabilitation. -->
 

@@ -1,7 +1,8 @@
 ---
 layout: cv
 permalink: /assets/pdf/Amber_Chou_CV_102523.pdf
-title: cv
+# permalink: /cv/
+title: CV
 nav: true
 nav_order: 4
 # redirect_to: /assets/pdf/Amber_Chou_CV_102523.pdf
