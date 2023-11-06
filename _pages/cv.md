@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/Amber_Chou_CV_102523.pdf
 title: cv
 nav: true
 nav_order: 4
