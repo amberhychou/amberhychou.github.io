@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-11-2
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+UW ECE has an <a href="https://www.ece.uw.edu/spotlight/wafer-2023/">article</a> about the event I am co-chairing, <a href="https://www.ece.uw.edu/news-events/wafer/">WAFER</a>!!

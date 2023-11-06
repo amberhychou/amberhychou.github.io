@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-3-3
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I was selected as a Fellow at the <a href="https://sites.usc.edu/dare2023/">NSF DARE Conference: Transformative Opportunities for Modeling in Neurorehabilitation</a> and is invited to write a position paper with the other 9 fellows to The Journal of NeuroEngineering and Rehabilitation (JNER). 
+
