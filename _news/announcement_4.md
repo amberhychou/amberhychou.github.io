@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-My <a href="https://www.sciencedirect.com/science/article/pii/S2405896323001210?via%3Dihub">paper</a> on evaluating multimodal human/machine interfaces is accepted by the <a href="https://www.cphs2022.org/">IFAC Workshop on Cyber-Physical Human Systems (CPHS)</a>.
+My paper "Evaluating a Human/Machine Interface with Redundant Motor Modalities for Trajectory-Tracking" is published on the <a href="https://www.cphs2022.org/">IFAC Workshop on Cyber-Physical Human Systems (CPHS)</a>. <a href="https://www.sciencedirect.com/science/article/pii/S2405896323001210?via%3Dihub">Link to the paper.</a>
 
