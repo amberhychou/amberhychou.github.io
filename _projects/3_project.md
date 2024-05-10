@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multimodal Interface
+title: Multimodal EMG Interface
 description:
 img: assets/img/remove background.jpg
 redirect: 

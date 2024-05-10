@@ -4,7 +4,7 @@ title: Yoga
 description: Yoga teacher training
 img: assets/img/Yoga.jpg
 importance: 1
-category: Others
+category: Personal
 ---
 
 I completed the 200-hr yoga teacher training (YTT200) and received my certification!

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Master's Project
-description: 
+title: Autonomous ATV
+description: Master's Project
 img: assets/img/ATV1.jpg
 importance: 3
 category: Research

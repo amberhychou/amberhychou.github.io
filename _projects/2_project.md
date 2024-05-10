@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adaptive Interface
-description: 
+description: EMG and Eye tracking
 img: assets/img/tracking illustration.jpg
 importance: 1
 category: Research

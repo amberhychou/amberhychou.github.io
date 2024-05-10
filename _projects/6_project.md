@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WAFER
-description: Co-chair of UW ECE WAFER Conference
+description: Co-chair of the UW ECE WAFER Conference
 img: assets/img/wafer_logo.jpeg
 importance: 2
 category: Outreach

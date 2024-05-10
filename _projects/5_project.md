@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Discovery Days
-description: UW Engineering Discovery Days
+description: Volunteer at the UW Engineering Discovery Days
 img: assets/img/days1.jpg
 importance: 1
 category: Outreach

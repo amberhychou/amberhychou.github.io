@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 description: 
 nav: true
-nav_order: 3
-display_categories: [Research, Outreach, Others]
+nav_order: 4
+display_categories: [Research, Outreach, Personal]
 horizontal: false
 ---
 
