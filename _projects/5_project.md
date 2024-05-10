@@ -20,10 +20,9 @@ We presented EMG-controlled robot claws and organized hands-on activities for 4t
     </div>
 </div>
 
-
-
+<!-- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/discovery_days.mov" title="example image" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
-</div>
+</div> -->
