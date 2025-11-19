@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Amber_Chou_CV_091725.pdf
+permalink: /assets/pdf/Amber_Chou_CV_111925.pdf
 # permalink: /cv/
 title: CV
 nav: true
