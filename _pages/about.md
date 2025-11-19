@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Hi! I am <b>Amber Chou</b> (she/her). I am a final year Ph.D. student in Electrical and Computer Engineering at the University of Washington, Seattle (UW ECE), studying <b>human-machine interaction</b>. 
+<p>Hi! I am <b>Amber Chou</b> (she/her). I am a final-year Ph.D. student in Electrical and Computer Engineering at the University of Washington, Seattle (UW ECE), studying <b>human-machine interaction</b>. 
   
 <p> <ins><b>I am on academic job market and seeking opportunities for postdoctoral and faculty positions!</b></ins>
 
