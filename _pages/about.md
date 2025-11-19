@@ -15,7 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Hi! I am <b>Amber Chou</b> (she/her). I am a final year Ph.D. student in Electrical and Computer Engineering at the University of Washington, Seattle (UW ECE), studying <b>human-machine interaction</b>. I am currently <b>on the academic job market</b> and seeking opportunities for postdoctoral and faculty positions.
+<p>Hi! I am <b>Amber Chou</b> (she/her). I am a final year Ph.D. student in Electrical and Computer Engineering at the University of Washington, Seattle (UW ECE), studying <b>human-machine interaction</b>. 
+  
+<ins><p><b>I am on the academic job market and seeking opportunities for postdoctoral and faculty positions!</b></ins>
 
 <p>My research interest lies in the intersection of human-robot/computer interaction and neuroengineering -- I am interested in integrating <b>wearable sensing</b>, including peripheral neural signals, eye movements, haptics, and gestures, to understand complex human behaviors. I leverage control theory, data-driven algorithms, and insights from experiments to design personalized <b>multimodal interfaces</b> for device-assisted rehabilitation. I am advised by <a href="https://faculty.washington.edu/sburden/bio/">Dr. Sam Burden</a>. Here is a <a href="https://amberhychou.github.io/assets/pdf/Amber_Chou_1page_research_statement.pdf">1-page research statement</a> if you are interested in learning more about my work! 
 
