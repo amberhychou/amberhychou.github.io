@@ -7,7 +7,7 @@ importance: 1
 category: Research
 ---
 
-We designed a multimodal interface, integrating surface EMG and an eye-tracking headset, capable of adapting to individuals across diverse human-computer tasks such as tracking, pointing, and drawing.
+We designed a multimodal interface, integrating surface EMG and an eye-tracking headset, capable of adapting to individuals across diverse human-computer tasks such as tracking, pointing, and drawing. Check out the <a href="https://www.youtube.com/watch?v=dnRvy2Klmug&t=16s">video demo</a>! 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
